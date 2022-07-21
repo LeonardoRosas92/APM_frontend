@@ -15,7 +15,7 @@ Este es un proyecto realizado para la administración de pacientes de Médicos e
 
  Clona el siguiente repositorio. 
 
-    git@github.com:LeonardoRosas92/APM_backend.git
+    git@github.com:LeonardoRosas92/APM_frontend.git
 
  Realiza la instalación de las dependencias. 
 
