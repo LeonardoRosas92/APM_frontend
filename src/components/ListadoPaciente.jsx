@@ -1,9 +1,11 @@
-import React, { Fragment } from 'react';
+import React, { Fragment, useEffect } from 'react';
 import usePacientes from '../hooks/usePacientes';
 import Paciente from './Paciente';
 
 function ListadoPaciente() {
     const { pacientes } = usePacientes();
+
+
     return (
         <Fragment>
             {
